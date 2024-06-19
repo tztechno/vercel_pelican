@@ -3,6 +3,8 @@
 
 https://tztechno.github.io/tz_blog_pelican/
 
+内容：各言語への翻訳結果の文法解説
+
 ---
 
 
@@ -23,6 +25,8 @@ git remote add origin https://github.com/tztechno/tz_blog_pelican
 git add .
 git commit -m "Initial commit"
 git push -u origin master
+
+git push -f origin master　更新を強制する時
 ```
 
 ---
