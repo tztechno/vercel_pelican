@@ -1,5 +1,11 @@
 # tz_blog_pelican
 
+
+https://tztechno.github.io/tz_blog_pelican/
+
+---
+
+
 deploy成功
 
 ```
