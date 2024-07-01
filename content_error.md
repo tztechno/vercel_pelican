@@ -1,6 +1,8 @@
 
 content_error.md
 
+# No module named 'markupsafe'
+
 ---
 ```
 pelican content
