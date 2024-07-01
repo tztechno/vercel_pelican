@@ -1,5 +1,6 @@
 # tz_blog_pelican
 
+https://github.com/getpelican/pelican
 
 https://tztechno.github.io/tz_blog_pelican/
 
