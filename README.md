@@ -6,6 +6,8 @@ https://github.com/getpelican/pelican
 
 https://tztechno.github.io/tz_blog_pelican/
 
+https://tz-blog-pelican.vercel.app/
+
 内容：各言語への翻訳結果の文法解説
 
 ---
